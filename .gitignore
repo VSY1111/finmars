@@ -1,0 +1,15 @@
+.env
+.env.bak
+.env.backup
+nohup.out
+postgres_data
+postgres_data_keycloak
+nginx/ssl
+storage
+.idea
+*.sql
+venv
+.venv
+__pycache__/
+init-setup-log.txt
+.init-setup-state.json
